@@ -15,7 +15,6 @@ public class Persona {
 	private String apellido;
 	@Column
 	private int edad;
-	private String comentario;
 	
 	public Integer getId() {
 		return id;
